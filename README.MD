@@ -1,3 +1,8 @@
 ## Deleted Messages In Twitch Chat
 
-#### Just Copy and paste the code in chrome console
+![twitch chat](assets/twitch-chat-deleted-messages.png)
+
+#### Just Copy and paste the code(index.js) in chrome console
+#
+
+> ##### This works in Jun 24 2022 😛
